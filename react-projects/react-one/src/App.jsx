@@ -10,7 +10,7 @@ function App() {
     {/* <ibb/> */}
       <h1>hello</h1>
       <h1>hello</h1>
-      <h1>hello</h1>
+      <h2>welcome</h2>
     </>
   )
 }
